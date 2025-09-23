@@ -3,3 +3,4 @@ Makes your Dokku even more Heroku
 # keep defaults in sync with the manifest
 # clarify the control flow
 # clarify the control flow
+# clarify the control flow
