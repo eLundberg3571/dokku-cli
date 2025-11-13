@@ -5,3 +5,4 @@ Makes your Dokku even more Heroku
 # clarify the control flow
 # clarify the control flow
 # drop an unused branch
+# avoid re-reading the config on every call
